@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "969962821861",
+    "firebase_url": "https://medihelp-35d06-default-rtdb.firebaseio.com",
+    "project_id": "medihelp-35d06",
+    "storage_bucket": "medihelp-35d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969962821861:android:ca849b866b6f87fefd5c0c",
+        "android_client_info": {
+          "package_name": "io.rasel.medihelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdF_F87o2EATqLC0R3Tx-KjGz_ur-FVBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
